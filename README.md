@@ -14,3 +14,14 @@ https://delire.party/
 https://envs.net/
 https://fidonet.io/
 https://gamedev.place/
+https://honeypot.im/
+https://hyena.network/
+https://inex.rocks/
+https://iriseden.eu/
+https://kif.rocks/
+https://kotobank.ch/
+https://kretschmann.social/
+https://libretux.com/
+https://linuxkompis.se/
+https://linux.pizza/
+https://maescool.be/
