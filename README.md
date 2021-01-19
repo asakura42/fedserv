@@ -32,3 +32,11 @@ https://neko.bar/
 https://nikel.me/
 https://nota.live/
 https://opportunis.me/
+https://phreedom.club/
+https://privacytools.io/services/
+https://sdf.org/
+https://snopyta.org/
+https://sp-codes.de/
+https://tchncs.de/
+https://thesecretlair.org/
+https://thisisjoes.site/
