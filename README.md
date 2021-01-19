@@ -4,6 +4,7 @@ curated federated services list
 unsorted:
 
 https://1984.cz/
+https://40two.app/
 https://42l.fr/
 https://anarchyplanet.org/
 https://anjara.eu/
@@ -25,3 +26,9 @@ https://libretux.com/
 https://linuxkompis.se/
 https://linux.pizza/
 https://maescool.be/
+https://maud.io/
+https://mouse.services/
+https://neko.bar/
+https://nikel.me/
+https://nota.live/
+https://opportunis.me/
