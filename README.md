@@ -1,5 +1,6 @@
 # fedserv  
 curated federated services list  
+Some servers that provide different things. Not just one thing, but several. It is very handy.
   
 unsorted:  
   
