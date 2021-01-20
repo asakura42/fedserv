@@ -31,6 +31,7 @@ https://maud.io/
 https://mouse.services/  
 https://neko.bar/  
 https://nikel.me/  
+https://nixnet.services/  
 https://nota.live/  
 https://opportunis.me/  
 https://phreedom.club/  
