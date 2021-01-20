@@ -37,6 +37,7 @@ https://opportunis.me/
 https://phreedom.club/  
 https://privacytools.io/services/  
 https://sdf.org/  
+https://shittyurl.org/  
 https://snopyta.org/  
 https://sp-codes.de/  
 https://tchncs.de/  
